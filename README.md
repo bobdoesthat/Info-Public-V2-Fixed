@@ -15,4 +15,4 @@ https://github.com/user-attachments/assets/3fd2ee24-dc6a-4a54-89e7-e32a2d0b5718
 
 https://github.com/user-attachments/assets/f9e1d629-9173-4ea2-9479-16c7aa7a0a57
 
-<img width="750" height="1039" alt="Screenshot 2025-12-05 111638" src="https://github.com/user-attachments/assets/78fda57b-d096-4933-afdb-011d16dcc491" />
+<img width="900" height="1039" alt="Screenshot 2025-12-05 111638" src="https://github.com/user-attachments/assets/78fda57b-d096-4933-afdb-011d16dcc491" />
