@@ -1,5 +1,5 @@
 Info Public V2 Fixed | Fixed FPS | Un-Obfuscated | Open Source | Rat-Free check for yourself!
-
+These are all real examples and real videos from varying people.
 
 https://github.com/user-attachments/assets/265b8889-2ee8-4def-a5b5-4083937b9a7f
 
