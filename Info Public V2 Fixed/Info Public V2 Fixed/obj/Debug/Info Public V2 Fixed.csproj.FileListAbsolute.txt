@@ -1,6 +1,0 @@
-C:\Users\Wrigl\Desktop\Very Important Work\Info Public V2 Fixed\Info Public V2 Fixed\bin\Debug\Info Public V2 Fixed.dll
-C:\Users\Wrigl\Desktop\Very Important Work\Info Public V2 Fixed\Info Public V2 Fixed\bin\Debug\Info Public V2 Fixed.pdb
-C:\Users\Wrigl\Desktop\Very Important Work\Info Public V2 Fixed\Info Public V2 Fixed\obj\Debug\Info Public V2 Fixed.csproj.AssemblyReference.cache
-C:\Users\Wrigl\Desktop\Very Important Work\Info Public V2 Fixed\Info Public V2 Fixed\obj\Debug\Info Public V2 Fixed.csproj.CoreCompileInputs.cache
-C:\Users\Wrigl\Desktop\Very Important Work\Info Public V2 Fixed\Info Public V2 Fixed\obj\Debug\Info Public V2 Fixed.dll
-C:\Users\Wrigl\Desktop\Very Important Work\Info Public V2 Fixed\Info Public V2 Fixed\obj\Debug\Info Public V2 Fixed.pdb
