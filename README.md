@@ -11,5 +11,4 @@ https://github.com/user-attachments/assets/b104d3fb-57aa-4eb4-a129-1e80ab8db891
 
 https://github.com/user-attachments/assets/f9e1d629-9173-4ea2-9479-16c7aa7a0a57
 
-VirusTotal:
 <img width="666" height="1039" alt="Screenshot 2025-12-05 111638" src="https://github.com/user-attachments/assets/78fda57b-d096-4933-afdb-011d16dcc491" />
