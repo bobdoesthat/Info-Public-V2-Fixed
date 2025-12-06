@@ -23,7 +23,8 @@ https://github.com/user-attachments/assets/f9e1d629-9173-4ea2-9479-16c7aa7a0a57
   
 <img width="346" height="846" alt="Screenshot 2025-12-05 170101" src="https://github.com/user-attachments/assets/1676cdad-6801-43a1-b2f4-fa25f93d785b" />
 
-  
+  ![Screenshot_2025-12-06_123243](https://github.com/user-attachments/assets/d8cf8711-a6fe-4609-bcfd-1f04c3865a48)
+
 <img width="1200" height="750" alt="Screenshot 2025-12-05 170017" src="https://github.com/user-attachments/assets/dff6cd99-5bf4-4214-bf95-97032e2a2c50" />
 
   
