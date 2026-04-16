@@ -1,3 +1,6 @@
+DISCONTINUED
+
+
 | Info Public V2 Fixed | Fixed FPS | Un-Obfuscated | Open Source | Rat-Free check for yourself! | Detects EVERYTHING! |
 These are all real examples and real videos from varying people. | Want your clip up here? Send a video of you exposing a cheater or just using the checker to 'fortfoot' on Discord | 
 
